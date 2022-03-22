@@ -1,0 +1,79 @@
+* {
+    font-family: Raleway, sans-serif;
+}
+
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+.neighborhood {
+    color: #e99d03;
+    font-size: 48px;
+    letter-spacing: 15px;
+    padding: 10px;
+}
+
+span {
+    color: #e99d03;
+    font-size: 20px;
+    text-transform: uppercase;
+    margin: 10px;
+}
+
+#right-top {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    padding: 50px;
+    border-bottom: black solid;
+}
+
+p {
+    text-align: center;
+}
+
+#nodabar {
+    border: solid black 10px;
+}
+
+#nodasign {
+    border: solid black 10px;
+    width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#linebreak {
+    border-bottom: black solid;
+    padding: 10px
+}
+
+#plazabar {
+    width: 750px;
+    border: solid black 10px;
+}
+
+#plazastrip {
+    width: 500px;
+    border: solid black 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid 2px;
+    border-radius: 10px;
+    margin: 20px;
+    box-shadow: salmon 10px 2px 2px ;
+}
+
+th {
+    color: slategray;
+}
